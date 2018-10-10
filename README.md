@@ -1,1 +1,3 @@
-# Standard_Template_Libraries_Implementation
+## Implementation of Standard Template Libraries using C++ language
+
+* DEQUE (Using C Macro and Stringification)
